@@ -1,0 +1,1 @@
+Jeg har en Item klasse i min sp1 som kunne være superklassen for både min Weapon klasse og Armor klasse.
